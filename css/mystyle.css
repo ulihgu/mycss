@@ -105,3 +105,12 @@ page {
     80%{opacity: 100;}
     100%{opacity: 0;}
 }
+#bgmbutton{
+    height: 100px;
+    width: 100px;
+    background: aqua;
+}
+#sz,#sjsz{
+    height: 200px;
+    width: 200px;
+}
