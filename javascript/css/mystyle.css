@@ -1,4 +1,45 @@
-﻿/* 变色 
+﻿/*9:文本 事件*/
+input{
+    border:1px solid #040;
+}
+/*8:定时器 时间进位*/
+/*input{
+    border:1px solid rgba(0,0,0,0.8);
+    text-align:right;
+    font-size:20px;
+    font-weight:bold;
+}*/
+/*3:扫雷格子___多选择器*/
+        /**{
+            margin:0;
+            padding:0;
+        }
+        li{
+            box-sizing:border-box;
+            width:10px;
+            height:10px;
+            float:left;
+            border:1px solid black;
+        }
+        ul{
+            list-style:none;
+            width:200px;
+            height:200px;
+        }*/
+/*2:选项卡___多选择器*/
+/*.wrapper div{
+    display:none;
+    width:200px;
+    height:200px;
+    border:2px solid red;
+}
+.active{
+    background-color: yellow;
+}*/
+/*div.active{
+    display: block;
+}*/
+/* 变色
 @keyframes myfirst{
     from{background: red;}
     to{background:green;}
@@ -31,6 +72,7 @@ p{
  */
 
 /* 春夏秋冬动画 */
+/*
 html,body,page{
     width: 100%;
     height: 100%;
@@ -113,4 +155,4 @@ page {
 #sz,#sjsz{
     height: 200px;
     width: 200px;
-}
+}*/
