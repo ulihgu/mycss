@@ -7,7 +7,7 @@
         console.log(this.value);
     }*/
 
-/*14:请算键盘按下*/
+/*14:计算键盘按下*/
  /*   document.onkeypress = function (e) {
         console.log(String.fromCharCode(e.charCode));
     }*/
